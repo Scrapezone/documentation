@@ -13,7 +13,10 @@ Forget about proxies, servers, and IP addresses. Just get the data you need.
 
 Google and eCommerce HTML Scraper
 Send a request with up to 1,000 URLs and receive the raw, unblocked HTML files.
-For trial accounts, the service is limited to Google.com and Amazon.com pages.
+
+## Quick Start
+1. Create a new account at: https://app.scrapezone.com
+2. Save your scrape username and password
 
 ## Sending a request
 A request is sent in batches of 1-1,000 URLs.
