@@ -1,5 +1,17 @@
 # ![Scrapezone Logo](https://app.scrapezone.com/img/logo-white.svg) ScrapeZone!
 
+<p align="center">
+    <a href="https://scrapezone.com/"><img src="https://app.scrapezone.com/img/logo-white.svg" alt="Scrapezone Logo" width="218" height="42"></a>
+  </a>
+</p>
+
+<h2 align="center">
+  Getting Data Was Never Easier
+</h2>
+
+<p align="center">
+Forget about proxies, servers, and IP addresses. Just get the data you need.
+</p>
 
 Google and eCommerce HTML Scraper
 Send a request with up to 1,000 URLs and receive the raw, unblocked HTML files.
