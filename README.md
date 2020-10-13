@@ -1,5 +1,5 @@
 # Welcome to ScrapeZone!
-![Scrapezone Logo](/images/logo.png)
+![Scrapezone Logo](https://app.scrapezone.com/img/logo-white.svg)
 Format: ![Alt Text](url)
 
 Google and eCommerce HTML Scraper
