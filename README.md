@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://scrapezone.com/"><img src="https://app.scrapezone.com/img/logo-white.svg" alt="Scrapezone Logo" width="218" height="42"></a>
+    <a href="https://scrapezone.com/"><img src="https://app.scrapezone.com/img/logo.svg" alt="Scrapezone Logo" width="218" height="42"></a>
   </a>
 </p>
 
