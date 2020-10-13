@@ -18,6 +18,7 @@ Send a request with up to 1,000 URLs and receive the raw, unblocked HTML files.
 1. Create a new account at: https://app.scrapezone.com
 2. Copy your scrape username and password:
 ![Username and Password](/images/user_pass.png)
+3. Start getting the data you need.
 
 ## Sending a request
 A request is sent in batches of 1-1,000 URLs.
