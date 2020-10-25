@@ -113,18 +113,18 @@ Available parsers:
 |Parser Name|Description|Results File Structure|
 |-----------|-----------|--------------------|
 |amazon_product_display|Amazon Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|amazon_search|Amazon search or category page| [JSON](/data/amazon_search/result.json) [CSV](/data/amazon_search/result.csv)|
-|bestbuy_product_display|BestBuy Product Display Page | [JSON](/data/bestbuy_product_display/result.json) [CSV](/data/bestbuy_product_display/result.csv)|
-|ebay_product_display|Ebay Product Display Page | [JSON](/data/ebay_product_display/result.json) [CSV](/data/ebay_product_display/result.csv)|
-|etsy_product_display|Etsy Product Display Page | [JSON](/data/etsy_product_display/result.json) [CSV](/data/etsy_product_display/result.csv)|
-|flipkart_product_display|Flipkart Product Display Page | [JSON](/data/flipkart_product_display/result.json) [CSV](/data/flipkart_product_display/result.csv)|
-|google_news|Google News Results Page| [JSON](/data/google_news/result.json) [CSV](/data/google_news/result.csv)|
-|google_search|Google Search Results Page| [JSON](/data/google_search/result.json) [CSV](/data/google_search/result.csv)|
-|homedepot_product_display|The Home Depot Product Display Page | [JSON](/data/homedepot_product_display/result.json) [CSV](/data/homedepot_product_display/result.csv)|
-|lowes_product_display|Lowes Product Display Page | [JSON](/data/lowes_product_display/result.json) [CSV](/data/lowes_product_display/result.csv)|
-|target_product_display|Target Product Display Page | [JSON](/data/target_product_display/result.json) [CSV](/data/target_product_display/result.csv)|
-|walmart_product_display|Walmart Product Display Page | [JSON](/data/walmart_product_display/result.json) [CSV](/data/walmart_product_display/result.csv)|
-|wayfair_product_display|Wayfair Product Display Page | [JSON](/data/wayfair_product_display/result.json) [CSV](/data/wayfair_product_display/result.csv)|
+|amazon_search|Amazon search or category page|[Documentation](/parsers/amazon_product_display.md)|
+|bestbuy_product_display|BestBuy Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|ebay_product_display|Ebay Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|etsy_product_display|Etsy Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|flipkart_product_display|Flipkart Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|google_news|Google News Results Page|[Documentation](/parsers/amazon_product_display.md)|
+|google_search|Google Search Results Page|[Documentation](/parsers/amazon_product_display.md)|
+|homedepot_product_display|The Home Depot Product Display Page|[Documentation](/parsers/amazon_product_display.md)|
+|lowes_product_display|Lowes Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|target_product_display|Target Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|walmart_product_display|Walmart Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|wayfair_product_display|Wayfair Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
 
 ### Example Request
 
