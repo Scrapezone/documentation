@@ -110,7 +110,7 @@ The response object will be in the following format:
 
 Parsed results allow you to get a JSON or CSV file with the parsed data!
 Available parsers:
-|Parser Name|Description|Example Results File|
+|Parser Name|Description|Results File Structure|
 |-----------|-----------|--------------------|
 |amazon_product_display|Amazon Product Display Page | [JSON](/data/amazon_product_display/result.json) [CSV](data/amazon_product_display/result.csv)|
 |amazon_search|Amazon search or category page| [JSON](/data/amazon_search/result.json) [CSV](/data/amazon_search/result.csv)|
