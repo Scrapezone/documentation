@@ -1,7 +1,7 @@
 ### Best Buy Product Display
 Parses the details of a Best Buy product page.
 
-####Field Properties
+#### Field Properties
     brand_name: Product brand name
     product_name: Product name
     sku: Product SKU

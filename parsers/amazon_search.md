@@ -1,7 +1,7 @@
 ### Amazon Product Display
 Parses the details of an Amazon search or category page.
 
-####Field Properties
+#### Field Properties
     asin: Product ASIN
     title: Product Title (Name)
     image: Product Image URL

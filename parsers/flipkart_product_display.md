@@ -1,7 +1,7 @@
 ### Flip Kart Product Display
 Parses the details of a Flip Kart product page.
 
-####Field Properties
+#### Field Properties
     brand_name: Product brand name
     product_name: Product name
     product_id: Product ID

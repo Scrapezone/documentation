@@ -1,7 +1,7 @@
 ### Ebay Product Display
 Parses the details of an Ebay product page.
 
-####Field Properties
+#### Field Properties
     seller_name: Seller name
     product_name: Product name
     product_id: Product ID

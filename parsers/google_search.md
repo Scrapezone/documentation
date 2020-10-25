@@ -1,7 +1,7 @@
 ### Google Search
 Parses the details of a Google Search page.
 
-####Field Properties
+#### Field Properties
     title: Search result title
     link: Result link
     displayed_link: Result link text
