@@ -1,7 +1,7 @@
-|a|b|
-|--|--|
-|c|d|
-brand_name: 
+|Field Name|Description|Type|
+|----------|-----------|----|
+|brand_name|The product brand name|String|
+: 
 product_name: parseProperty(getProductName),
 asin: parseProperty(getAsin),
 description: parseProperty(getDescription),
