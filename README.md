@@ -113,18 +113,18 @@ Available parsers:
 |Parser Name|Description|Results File Structure|
 |-----------|-----------|--------------------|
 |amazon_product_display|Amazon Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|amazon_search|Amazon search or category page|[Documentation](/parsers/amazon_product_display.md)|
-|bestbuy_product_display|BestBuy Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|ebay_product_display|Ebay Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|etsy_product_display|Etsy Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|flipkart_product_display|Flipkart Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|google_news|Google News Results Page|[Documentation](/parsers/amazon_product_display.md)|
-|google_search|Google Search Results Page|[Documentation](/parsers/amazon_product_display.md)|
-|homedepot_product_display|The Home Depot Product Display Page|[Documentation](/parsers/amazon_product_display.md)|
-|lowes_product_display|Lowes Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|target_product_display|Target Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|walmart_product_display|Walmart Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
-|wayfair_product_display|Wayfair Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
+|amazon_search|Amazon search or category page|[Documentation](/parsers/amazon_search.md)|
+|bestbuy_product_display|BestBuy Product Display Page |[Documentation](/parsers/bestbuy_product_display.md)|
+|ebay_product_display|Ebay Product Display Page |[Documentation](/parsers/ebay_product_display.md)|
+|etsy_product_display|Etsy Product Display Page |[Documentation](/parsers/etsy_product_display.md)|
+|flipkart_product_display|Flipkart Product Display Page |[Documentation](/parsers/flipkart_product_display.md)|
+|google_news|Google News Results Page|[Documentation](/parsers/google_news.md)|
+|google_search|Google Search Results Page|[Documentation](/parsers/google_search.md)|
+|homedepot_product_display|The Home Depot Product Display Page|[Documentation](/parsers/homedepot_product_display.md)|
+|lowes_product_display|Lowes Product Display Page |[Documentation](/parsers/lowes_product_display.md)|
+|target_product_display|Target Product Display Page |[Documentation](/parsers/target_product_display.md)|
+|walmart_product_display|Walmart Product Display Page |[Documentation](/parsers/walmart_product_display.md)|
+|wayfair_product_display|Wayfair Product Display Page |[Documentation](/parsers/wayfair_product_display.md)|
 
 ### Example Request
 
