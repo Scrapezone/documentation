@@ -1,4 +1,4 @@
-### Amazon Product Display
+### Amazon Search
 Parses the details of an Amazon search or category page.
 
 #### Field Properties
