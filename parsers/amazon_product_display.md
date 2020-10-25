@@ -2,11 +2,8 @@
 |----------|-----------|----|
 |brand_name|The product brand name|String|
 product_name|Product Name|String|
-
-asin: parseProperty(getAsin),
-description: parseProperty(getDescription),
-product_image: parseProperty(getProductImage),
-price: parseProperty(getPrice),
-rating: parseProperty(getRating),
-rating_scale: 5
-```
+asin|Product Name|String|
+description|Product Description|String|
+price|Product Price|Number|
+rating|Product Rating|Number|
+rating_scale|Max Rating|Number|
