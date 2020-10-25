@@ -112,15 +112,7 @@ Parsed results allow you to get a JSON or CSV file with the parsed data!
 Available parsers:
 |Parser Name|Description|Results File Structure|
 |-----------|-----------|--------------------|
-|amazon_product_display|Amazon Product Display Page | [|Field Name|Description|Type|
-|----------|-----------|----|
-|brand_name|The product brand name|String|
-product_name|Product Name|String|
-asin|Product ASIN|String|
-description|Product Description|String|
-price|Product Price|Number|
-rating|Product Rating|Number|
-rating_scale|Max Rating|Number||
+|amazon_product_display|Amazon Product Display Page |Data|
 |amazon_search|Amazon search or category page| [JSON](/data/amazon_search/result.json) [CSV](/data/amazon_search/result.csv)|
 |bestbuy_product_display|BestBuy Product Display Page | [JSON](/data/bestbuy_product_display/result.json) [CSV](/data/bestbuy_product_display/result.csv)|
 |ebay_product_display|Ebay Product Display Page | [JSON](/data/ebay_product_display/result.json) [CSV](/data/ebay_product_display/result.csv)|
