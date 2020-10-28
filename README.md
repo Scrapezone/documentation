@@ -110,7 +110,7 @@ The response object will be in the following format:
 
 Parsed results allow you to get a JSON or CSV file with the parsed data!
 Available parsers:
-|Parser Name|Description|Results File Structure|
+|Scraper Name|Description|Results File Structure|
 |-----------|-----------|--------------------|
 |amazon_product_display|Amazon Product Display Page |[Documentation](/parsers/amazon_product_display.md)|
 |amazon_search|Amazon search or category page|[Documentation](/parsers/amazon_search.md)|
